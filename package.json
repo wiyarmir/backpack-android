@@ -60,7 +60,7 @@
     "replace-in-file": "^3.4.2",
     "run-sequence": "^2.2.1",
     "semver": "^5.5.0",
-    "svg2vectordrawable": "^2.4.0",
+    "svg2vectordrawable": "^2.5.1",
     "through2": "^2.0.3",
     "tinycolor2": "^1.4.1"
   }
